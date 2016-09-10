@@ -1,0 +1,3 @@
+# SyncSwift
+
+Based on [gist](https://gist.github.com/Krelborn/3cade0e86cc9f06637b6) by [Krelborn](https://gist.github.com/Krelborn)
