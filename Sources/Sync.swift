@@ -1,4 +1,5 @@
 import Foundation
+import Dispatch
 
 /**
 *  Simple way to perform an asynchronous closure synchronously
